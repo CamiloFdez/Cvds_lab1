@@ -11,5 +11,24 @@
 ![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/Readme.png)
 
 # Parte II
+
+1. Se escojieron los roles 
+    - Owner : Camilo Fernandez
+    - Colaborador : Roger Rodriguez
+
+2. El owner agraga al colaborador 
+
+
+3. El colaborador acepta la invitacion
+
+4. El colaborador acepta la invitacion
+
+1. Añado a el colaboradpr
+
 2. añado  
+
+
+
+ 
+
 
