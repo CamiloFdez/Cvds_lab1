@@ -11,6 +11,5 @@
 ![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/Readme.png)
 
 # Parte II
-
- 
+2. añado  
 
