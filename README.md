@@ -13,7 +13,7 @@
 - Git add: Este comando de git sirve para mover los cambios que se realizaron en el directorio del trabajo al área del entorno de ensayo, tambien al utilizar este comando se puede empezar a rastrear archivos nuevos, preparar archivos, y hacer otras cosas como marcar archivos en conflicto por combinación.
 - Git commit -m "mensaje": Este comando confirma la instantánea preparada en el historial del proyecto, es decir, una vez al usar el anterior comando y añadir todos los archivos que se quieran añadir al repositorio este comando permite confirmar los cambios y adicional a esto añadir un mensaje de que se hizo para asi servir de guía del paso a paso o de lo que se este haciendo y subiendo mediante el proceso.
 5. Ahora enlazaremos la cuenta de nuestro correo institucinal dandole click a nuestro usuario y ir a configuracion, en ese apartado encontraremos en el lateral izquierdo un menu y buscaremos email que esta en acceso, una vez seleccionado se añadira el correo que quiera en este caso se usara el de la universidad y se veria tal que asi
-![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/Readme.png)
+![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/Correo%20enlazado.PNG)
 
 # Parte II
 
