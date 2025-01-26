@@ -77,9 +77,15 @@ Y ya con esto solucionamos el problema y podremos trabajar normalmente en el rep
 # Parte III
 1.Cada uno crea una rama :
 
-![image](ttps://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/crear rama.png)
+![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/crear rama.png)
 
 cada persona hace cambios y realiza el pull request a la rama main/master
+
+![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/feature camilo.png)
+
+![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/feature roger.png)
+
+
 
 # Respuestas
 - Parte I: 
