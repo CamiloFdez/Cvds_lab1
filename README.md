@@ -49,7 +49,13 @@
 ![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/SuccessInvitation.png)
 
 3. Ahora el owner y el colaborador modificaran el README y se subira al mismo tiempo, al momento de hacer esto el primero que detecte que lo haya subido se subira normalmente los cambios pero al otro le generara un error como se vera acontinuación:
+
 ![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/Error.png)  
+
+4. Para resolver estos tipos de problemas primero la persona que le solto el error abrira 
+
+# Parte III
+1. 
 
 # Respuestas
 - Parte I: 
@@ -59,6 +65,8 @@
 - Parte II:
     * ¿Que sucedió al momento de que los dos editaran el README.md al mismo tiempo?
         - Al momento de modificar los dos poniendo cualquier cosa en el README y intentar subir los cambios al mismo tiempo a uno le subira correctamente los cambios al repositorio, pero al otro no le subira y sucedera un error en ese caso debido a que como guardo los datos del repositorio del primero que lo subio, este no tiene dichos cambios y generara asi un error de actualizacion al momento de subirlo, una solucion como se vera en el apartado de la parte 2 es hacer un merge o abrir IntelliJ, Visual Studio Code o el de su preferencia para corregir, eliminar o unir estos cambios propuestos por los 2 usuarios y asi arreglar el error.
+- Parte III:
+    * 
 
  
 
