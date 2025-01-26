@@ -91,11 +91,12 @@ Y ya con esto solucionamos el problema y podremos trabajar normalmente en el rep
 
 ![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/borrar_r2.png)
 
-Aprovacion del pull request
+Aprobacion del pull request
 
 ![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/apr_1.png)
 
 ![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/apr_2.png)
+
 
 # Respuestas
 - Parte I: 
