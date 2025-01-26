@@ -75,27 +75,30 @@ Ya para finalizar subiremos este nuevo archivo con las modificaciones de manera 
 Y ya con esto solucionamos el problema y podremos trabajar normalmente en el repositorio creado.
 
 # Parte III
-1. Cada uno crea una rama :
+1. Cada uno crea una rama esto para facilitar las modificaciones de cada uno de los usuarios y luego unir las versiones o poder ver los errores si es necesario y corregirlos y esto se vera de tal manera:
 
 ![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/crear_rama.png)
+
+![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/Branch.PNG)
 
 ![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/feature_camilo.png)
 
 ![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/feature_roger.png)
 
-2. cada persona hace cambios y realiza el pull request a la rama main/master
+
+2. Cada persona hace cambios y realiza el pull request a la rama main/master para que con cada modificacion hecha se pueda subir al repositorio correctamente
 
 ![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/pull.png)
 
 ![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/pull2.png)
 
-3. Se eliminan las ramas:
+3. Se eliminan las ramas como se pide en el laboratorio esto para facilitar y dejar una rama en concreto:
 
 ![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/borrar_r1.png)
 
 ![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/borrar_r2.png)
 
-Aprobacion del pull request
+Ahora veremos como se debe ver una aprobacion de un pull request hecho por un usuario y como al aceptar esta afecta el repositorio y rama principal y se guardan los cambios despues de la confirmacion del usuario 
 
 ![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/apr_2.png)
 
