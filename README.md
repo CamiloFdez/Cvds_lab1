@@ -52,7 +52,29 @@
 
 ![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/Error.png)  
 
-4. Para resolver estos tipos de problemas primero la persona que le solto el error abrira 
+4. Para resolver estos tipos de problemas primero la persona que le solto el error abrira el IDLE de su preferencia o IntelliJ en este caso se uso Visual Studio Code, usamos start README.md ya que este es el archivo que nos genera el conflicto o simplemente buscamos desde consola nuestra carpeta donde tenemos guardado el proyecto y lo abrimos y quedaria de tal manera:
+
+![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/ErrorVisual.png) 
+
+Como se podra ver al abrir el archivo se veran las modificaciones hechas por los 2 y el conflicto que hay, para solucionar este problema podemos borrar la parte que no nos interese ya sea del owner o del colaborador, o tambien podemos mezclar dichas partes. En este caso uniremos las partes pero antes de ello debemos borrar estos caracteres para que funcione <<< === y >>> ya que esto señala los archivos que entran en conflicto al hacer pull y quedaria de esta manera:
+
+![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/CorreccionErrores.png)
+
+Una vez hecho los cambios el IDLE nos mostrara que cambiamos, que borramos o que hicimos para corregir los errores dentro del codigo, como se podra ver en el ejemplo mostrara la version del owner y del colaborador y abajo como se corregio el error que en este caso fue fusionando los 2 cambios hechos por cada uno:
+
+![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/MuestraCambios.png)
+
+5. Una vez hecho los cambios y corrigiendo los errores le daremos a git status para ver el estado del archivo que entraba en onflicto y se vera de esta manera:
+
+![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/Archivomodif.png)
+
+Ya para finalizar subiremos este nuevo archivo con las modificaciones de manera normal, usando add, commit y pull o push para subirlo al repositorio y antes de darle en este ultimo comando le daremos a git status una vez mas para asegurar que no hayan errores y que si haya funcionado el comando add:
+
+![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/ArchivoListo.png)
+
+Y ya con esto solucionamos el problema y podremos trabajar normalmente en el repositorio creado.
+
+6. Solucionar problemas desde IntellyJ:
 
 # Parte III
 1. 
