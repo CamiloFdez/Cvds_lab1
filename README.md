@@ -98,7 +98,3 @@ cada persona hace cambios y realiza el pull request a la rama main/master
         - Si, hay mejores formas para trabajar y no tener conflictos, una de ellas pueden ser las ramas que estas sirven cuando los usuarios estan interactuando con varios archivos pues crean estas ramas para que las modificaciones que cada uno hace queden dentro del repositorio y ya cuando se terminen todos los cambios el usuario hace un Pull Request para que dichos cambios sean aceptados al final o cuando terminen cada cambio realizado para subirlo al repositorio.
     * ¿Qué es y como funciona el Pull Request?
         - Un pull request es una peticion que un usuario le hace al otro para que este último incorpore los commits que están en el repositorio, al crear estas ramas tambien ayudan para fusionar los cambios hechos por los usuarios despues de utilizar este comando, permitiendo asi que os demas revisen dichos cambios y puedan determinar si aprueban o no dichos cambios para solicionar conflictos y errores.
-
- 
-
-
