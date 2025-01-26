@@ -85,8 +85,6 @@ cada persona hace cambios y realiza el pull request a la rama main/master
 
 ![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/feature roger.png)
 
-
-
 # Respuestas
 - Parte I: 
     * ¿Para qué sirve y como se usan estos comandos git add y git commit -m “mensaje”?
