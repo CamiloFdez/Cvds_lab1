@@ -93,8 +93,6 @@ Y ya con esto solucionamos el problema y podremos trabajar normalmente en el rep
 
 Aprobacion del pull request
 
-![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/apr_1.png)
-
 ![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/apr_2.png)
 
 
