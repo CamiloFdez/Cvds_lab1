@@ -75,7 +75,15 @@ Ya para finalizar subiremos este nuevo archivo con las modificaciones de manera 
 Y ya con esto solucionamos el problema y podremos trabajar normalmente en el repositorio creado.
 
 # Parte III
-1. 
+1.Cada uno crea una rama :
+
+![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/crear rama.png)
+
+cada persona hace cambios y realiza el pull request a la rama main/master
+
+![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/feature camilo.png)
+
+![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/feature roger.png)
 
 # Respuestas
 - Parte I: 
