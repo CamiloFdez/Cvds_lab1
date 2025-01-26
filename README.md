@@ -85,9 +85,9 @@ Y ya con esto solucionamos el problema y podremos trabajar normalmente en el rep
 
 2. cada persona hace cambios y realiza el pull request a la rama main/master
 
-![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/feature_camilo.png)
+![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/pull.png)
 
-![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/feature_roger.png)
+![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/pull2.png)
 
 3. Se eliminan las ramas:
 
