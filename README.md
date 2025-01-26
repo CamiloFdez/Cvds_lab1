@@ -88,7 +88,10 @@ Y ya con esto solucionamos el problema y podremos trabajar normalmente en el rep
     * ¿Que sucedió al momento de que los dos editaran el README.md al mismo tiempo?
         - Al momento de modificar los dos poniendo cualquier cosa en el README y intentar subir los cambios al mismo tiempo a uno le subira correctamente los cambios al repositorio, pero al otro no le subira y sucedera un error en ese caso debido a que como guardo los datos del repositorio del primero que lo subio, este no tiene dichos cambios y generara asi un error de actualizacion al momento de subirlo, una solucion como se vera en el apartado de la parte 2 es hacer un merge o abrir IntelliJ, Visual Studio Code o el de su preferencia para corregir, eliminar o unir estos cambios propuestos por los 2 usuarios y asi arreglar el error.
 - Parte III:
-    * 
+    * ¿Hay una mejor forma de trabajar con git para no tener conflictos? 
+        - Si, hay mejores formas para trabajar y no tener conflictos, una de ellas pueden ser las ramas que estas sirven cuando los usuarios estan interactuando con varios archivos pues crean estas ramas para que las modificaciones que cada uno hace queden dentro del repositorio y ya cuando se terminen todos los cambios el usuario hace un Pull Request para que dichos cambios sean aceptados al final o cuando terminen cada cambio realizado para subirlo al repositorio.
+    * ¿Qué es y como funciona el Pull Request?
+        - Un pull request es una peticion que un usuario le hace al otro para que este último incorpore los commits que están en el repositorio, al crear estas ramas tambien ayudan para fusionar los cambios hechos por los usuarios despues de utilizar este comando, permitiendo asi que os demas revisen dichos cambios y puedan determinar si aprueban o no dichos cambios para solicionar conflictos y errores.
 
  
 
