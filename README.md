@@ -44,17 +44,21 @@
 2. El owner agregara al colaborador, para realizar este paso lo primero que se debe hacer es buscar en el repositorio de github el apartado de ajustes, una vez dentro buscaremos colaboradores y dentro de este apartado ingresaremos el correo del colaborador o colaboradores que se quieran agregar al proyecto en este caso sera Roger y a el le llegara un correo para poder participar dentro del repositorio y ua vez aceptado se vera tal que asi:
 ![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/Colaboradores.PNG)
 - El colaborador le llega la invitacion:
-![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/Invitacion.PNG)
+![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/Invitacion.png)
 - El colaborador acepta la invitacion:
-![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/SuccessInvitation.PNG)
+![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/SuccessInvitation.png)
 
-2. añado  
+3. Ahora el owner y el colaborador modificaran el README y se subira al mismo tiempo, al momento de hacer esto el primero que detecte que lo haya subido se subira normalmente los cambios pero al otro le generara un error como se vera acontinuación:
+![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/Error.png)  
 
 # Respuestas
 - Parte I: 
     * ¿Para qué sirve y como se usan estos comandos git add y git commit -m “mensaje”?
         - Git add: Este comando de git sirve para mover los cambios que se realizaron en el directorio del trabajo al área del entorno de ensayo, tambien al utilizar este comando se puede empezar a rastrear archivos nuevos, preparar archivos, y hacer otras cosas como marcar archivos en conflicto por combinación.
-        - Git commit -m "mensaje": Este comando confirma la instantánea preparada en el historial del proyecto, es decir, una vez al usar el anterior comando y añadir todos los archivos que se quieran añadir al repositorio este comando permite confirmar los cambios y adicional a esto añadir un mensaje de que se hizo para asi servir de guía del paso a paso o de lo que se este haciendo y subiendo mediante el proceso.     
+        - Git commit -m "mensaje": Este comando confirma la instantánea preparada en el historial del proyecto, es decir, una vez al usar el anterior comando y añadir todos los archivos que se quieran añadir al repositorio este comando permite confirmar los cambios y adicional a esto añadir un mensaje de que se hizo para asi servir de guía del paso a paso o de lo que se este haciendo y subiendo mediante el proceso.   
+- Parte II:
+    * ¿Que sucedió al momento de que los dos editaran el README.md al mismo tiempo?
+        - Al momento de modificar los dos poniendo cualquier cosa en el README y intentar subir los cambios al mismo tiempo a uno le subira correctamente los cambios al repositorio, pero al otro no le subira y sucedera un error en ese caso debido a que como guardo los datos del repositorio del primero que lo subio, este no tiene dichos cambios y generara asi un error de actualizacion al momento de subirlo, una solucion como se vera en el apartado de la parte 2 es hacer un merge o abrir IntelliJ, Visual Studio Code o el de su preferencia para corregir, eliminar o unir estos cambios propuestos por los 2 usuarios y asi arreglar el error.
 
  
 
