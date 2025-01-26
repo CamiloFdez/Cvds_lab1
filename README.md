@@ -74,8 +74,6 @@ Ya para finalizar subiremos este nuevo archivo con las modificaciones de manera 
 
 Y ya con esto solucionamos el problema y podremos trabajar normalmente en el repositorio creado.
 
-6. Solucionar problemas desde IntellyJ:
-
 # Parte III
 1. 
 
