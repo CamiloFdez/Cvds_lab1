@@ -41,14 +41,12 @@
     - Owner : Camilo Fernandez
     - Colaborador : Roger Rodriguez
 
-2. El owner agraga al colaborador 
-
-
-3. El colaborador acepta la invitacion
-
-4. El colaborador acepta la invitacion
-
-1. Añado a el colaboradpr
+2. El owner agregara al colaborador, para realizar este paso lo primero que se debe hacer es buscar en el repositorio de github el apartado de ajustes, una vez dentro buscaremos colaboradores y dentro de este apartado ingresaremos el correo del colaborador o colaboradores que se quieran agregar al proyecto en este caso sera Roger y a el le llegara un correo para poder participar dentro del repositorio y ua vez aceptado se vera tal que asi:
+![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/Colaboradores.PNG)
+- El colaborador le llega la invitacion:
+![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/Invitacion.PNG)
+- El colaborador acepta la invitacion:
+![image](https://github.com/CamiloFdez/Cvds_lab1/blob/master/assets/SuccessInvitation.PNG)
 
 2. añado  
 
